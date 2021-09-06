@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Random Number Exc</string>
+    <string name="textview_tittle">True Random Number Generator</string>
+    <string name="edittext_min">Nhap so nho nhat</string>
+    <string name="edittext_max">Nhap so lon nhat</string>
+    <string name="textview_min">MIN</string>
+    <string name="textview_max">MAX</string>
+    <string name="button_generate">GENERATE</string>
+    <string name="textview_result">0</string>
+</resources>
